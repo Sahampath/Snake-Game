@@ -18,6 +18,9 @@
 ### 👨‍💻 Programming languages
  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
 ##
+### 🧰 Frameworks and libraries
+<a href="#"><img alt="Python" src="https://img.shields.io/badge/PyQt5%20-%2314354C.svg?logo=python&logoColor=white"></a>
+##
 ### 🗄️ Databases and cloud hosting
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
 ##
