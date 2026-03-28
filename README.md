@@ -1,5 +1,4 @@
-**Repository Views** ![Views](https://profile-counter.glitch.me/Sahampath/count.svg)
-
+#
 <h1 align="center"> Simple 3D Snake Game </h1>
 
 <h2 align="center">
