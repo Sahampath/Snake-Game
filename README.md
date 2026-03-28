@@ -29,4 +29,6 @@
 
 ##
 <h2 align="center">Visitors Counts 👀</h2>
-<a href="https://github.com/Sahampath/Snake-Game"><img alt="Cute Count" src="https://count.getloli.com/get/@TadSnA?theme=rule34" /></a>
+<p align="center">
+<a href="https://github.com/Sahampath/Snake-Game"><img alt="Cute Count" src="https://count.getloli.com/get/@Sahampath?theme=rule34" /></a>
+</p>
